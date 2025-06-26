@@ -46,3 +46,6 @@ This project is a data-driven exploration into the **mechanics of virality** on 
 ## 📁 Project Structure
 ![image](https://github.com/user-attachments/assets/3e27b99e-6e4a-4c36-a613-b5e51f0e27d7)
 
+##Data set
+https://drive.google.com/drive/folders/1I8Ectiy2U1_iQf2AJMiBpfbxwRuCnPY2
+
